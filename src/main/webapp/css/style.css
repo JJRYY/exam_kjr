@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+table {
+	width: 800px;
+	height: 300px;
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+thead {
+	background-color: #c0c0c0;
+	border-top: 3px solid red;
+	font-weight: bold;
+	height: 50px;
+}
